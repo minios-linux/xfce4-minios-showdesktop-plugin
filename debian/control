@@ -1,0 +1,28 @@
+Source: xfce4-minios-showdesktop-plugin
+Section: xfce
+Priority: optional
+Maintainer: crims0n <crims0n@minios.dev>
+Rules-Requires-Root: no
+Build-Depends: debhelper-compat (= 13),
+               meson,
+               ninja-build,
+               pkg-config,
+               gettext,
+               libgtk-3-dev,
+               libglib2.0-dev,
+               libxfconf-0-dev,
+               libxfce4util-dev,
+               libxfce4ui-2-dev,
+               libxfce4panel-2.0-dev,
+               libxfce4windowing-0-dev
+Standards-Version: 4.7.0
+Homepage: https://github.com/minios-linux/xfce4-minios-showdesktop-plugin
+Vcs-Browser: https://github.com/minios-linux/xfce4-minios-showdesktop-plugin
+Vcs-Git: https://github.com/minios-linux/xfce4-minios-showdesktop-plugin.git
+
+Package: xfce4-minios-showdesktop-plugin
+Architecture: any
+Depends: ${misc:Depends}, ${shlibs:Depends}
+Description: MiniOS Show Desktop plugin for the Xfce panel
+ A MiniOS fork of the Xfce Show Desktop plugin with an optional iconless
+ compact strip and selectable strip widths.

@@ -1,0 +1,66 @@
+version: 1
+checksums:
+    xfce4-minios-showdesktop-plugin/de:
+        Hide all windows and show the desktop with optional compact strip: 4be10d0a2dd1479985d4490a73f15cfc
+        Medium: 87f8a6ab85c9ced3702b4ea641ad4bb5
+        Show _icon: a5f566b47b03a6685b260ee35c03ef3d
+        Show Desktop (MiniOS): 387b98208a6631bf3e3dc327230515f9
+        'Strip _style:': ec7f2c50fcd2902eb295fdba4f67afa5
+        Thin: aedfcbf06fc92bafadf4527a2fcccc69
+        Wide: e7c770a61dbdf81ca922ae0260e327c1
+    xfce4-minios-showdesktop-plugin/es:
+        Hide all windows and show the desktop with optional compact strip: 4be10d0a2dd1479985d4490a73f15cfc
+        Medium: 87f8a6ab85c9ced3702b4ea641ad4bb5
+        Show _icon: a5f566b47b03a6685b260ee35c03ef3d
+        Show Desktop (MiniOS): 387b98208a6631bf3e3dc327230515f9
+        'Strip _style:': ec7f2c50fcd2902eb295fdba4f67afa5
+        Thin: aedfcbf06fc92bafadf4527a2fcccc69
+        Wide: e7c770a61dbdf81ca922ae0260e327c1
+    xfce4-minios-showdesktop-plugin/fr:
+        Hide all windows and show the desktop with optional compact strip: 4be10d0a2dd1479985d4490a73f15cfc
+        Medium: 87f8a6ab85c9ced3702b4ea641ad4bb5
+        Show _icon: a5f566b47b03a6685b260ee35c03ef3d
+        Show Desktop (MiniOS): 387b98208a6631bf3e3dc327230515f9
+        'Strip _style:': ec7f2c50fcd2902eb295fdba4f67afa5
+        Thin: aedfcbf06fc92bafadf4527a2fcccc69
+        Wide: e7c770a61dbdf81ca922ae0260e327c1
+    xfce4-minios-showdesktop-plugin/id:
+        Hide all windows and show the desktop with optional compact strip: 4be10d0a2dd1479985d4490a73f15cfc
+        Medium: 87f8a6ab85c9ced3702b4ea641ad4bb5
+        Show _icon: a5f566b47b03a6685b260ee35c03ef3d
+        Show Desktop (MiniOS): 387b98208a6631bf3e3dc327230515f9
+        'Strip _style:': ec7f2c50fcd2902eb295fdba4f67afa5
+        Thin: aedfcbf06fc92bafadf4527a2fcccc69
+        Wide: e7c770a61dbdf81ca922ae0260e327c1
+    xfce4-minios-showdesktop-plugin/it:
+        Hide all windows and show the desktop with optional compact strip: 4be10d0a2dd1479985d4490a73f15cfc
+        Medium: 87f8a6ab85c9ced3702b4ea641ad4bb5
+        Show _icon: a5f566b47b03a6685b260ee35c03ef3d
+        Show Desktop (MiniOS): 387b98208a6631bf3e3dc327230515f9
+        'Strip _style:': ec7f2c50fcd2902eb295fdba4f67afa5
+        Thin: aedfcbf06fc92bafadf4527a2fcccc69
+        Wide: e7c770a61dbdf81ca922ae0260e327c1
+    xfce4-minios-showdesktop-plugin/pt:
+        Hide all windows and show the desktop with optional compact strip: 4be10d0a2dd1479985d4490a73f15cfc
+        Medium: 87f8a6ab85c9ced3702b4ea641ad4bb5
+        Show _icon: a5f566b47b03a6685b260ee35c03ef3d
+        Show Desktop (MiniOS): 387b98208a6631bf3e3dc327230515f9
+        'Strip _style:': ec7f2c50fcd2902eb295fdba4f67afa5
+        Thin: aedfcbf06fc92bafadf4527a2fcccc69
+        Wide: e7c770a61dbdf81ca922ae0260e327c1
+    xfce4-minios-showdesktop-plugin/pt-BR:
+        Hide all windows and show the desktop with optional compact strip: 4be10d0a2dd1479985d4490a73f15cfc
+        Medium: 87f8a6ab85c9ced3702b4ea641ad4bb5
+        Show _icon: a5f566b47b03a6685b260ee35c03ef3d
+        Show Desktop (MiniOS): 387b98208a6631bf3e3dc327230515f9
+        'Strip _style:': ec7f2c50fcd2902eb295fdba4f67afa5
+        Thin: aedfcbf06fc92bafadf4527a2fcccc69
+        Wide: e7c770a61dbdf81ca922ae0260e327c1
+    xfce4-minios-showdesktop-plugin/ru:
+        Hide all windows and show the desktop with optional compact strip: 4be10d0a2dd1479985d4490a73f15cfc
+        Medium: 87f8a6ab85c9ced3702b4ea641ad4bb5
+        Show _icon: a5f566b47b03a6685b260ee35c03ef3d
+        Show Desktop (MiniOS): 387b98208a6631bf3e3dc327230515f9
+        'Strip _style:': ec7f2c50fcd2902eb295fdba4f67afa5
+        Thin: aedfcbf06fc92bafadf4527a2fcccc69
+        Wide: e7c770a61dbdf81ca922ae0260e327c1

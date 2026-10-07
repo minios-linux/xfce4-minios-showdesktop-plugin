@@ -1,0 +1,44 @@
+# Translations for xfce4-minios-showdesktop-plugin.
+# Copyright (C) 2026 
+# This file is distributed under the same license as the xfce4-minios-showdesktop-plugin package.
+msgid ""
+msgstr ""
+"Project-Id-Version: xfce4-minios-showdesktop-plugin 1.0.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-07 18:57+0300\n"
+"PO-Revision-Date: 2026-10-07 15:57+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: po/strings.c:3
+msgid "Show Desktop (MiniOS)"
+msgstr "Mostrar Área de Trabalho (MiniOS)"
+
+#: po/strings.c:4
+msgid "Hide all windows and show the desktop with optional compact strip"
+msgstr "Ocultar todas as janelas e mostrar a área de trabalho com faixa compacta opcional"
+
+#: po/strings.c:5
+msgid "Show _icon"
+msgstr "Mostrar _ícone"
+
+#: po/strings.c:6
+msgid "Strip _style:"
+msgstr "Estilo da _faixa:"
+
+#: po/strings.c:7
+msgid "Thin"
+msgstr "Fina"
+
+#: po/strings.c:8
+msgid "Medium"
+msgstr "Média"
+
+#: po/strings.c:9
+msgid "Wide"
+msgstr "Larga"
