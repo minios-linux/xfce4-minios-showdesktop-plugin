@@ -1,4 +1,4 @@
-Source: xfce4-minios-showdesktop-plugin
+Source: xfce4-showdesktop-minios-plugin
 Section: xfce
 Priority: optional
 Maintainer: crims0n <crims0n@minios.dev>
@@ -20,7 +20,7 @@ Homepage: https://github.com/minios-linux/xfce4-minios-showdesktop-plugin
 Vcs-Browser: https://github.com/minios-linux/xfce4-minios-showdesktop-plugin
 Vcs-Git: https://github.com/minios-linux/xfce4-minios-showdesktop-plugin.git
 
-Package: xfce4-minios-showdesktop-plugin
+Package: xfce4-showdesktop-minios-plugin
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
 Description: MiniOS Show Desktop plugin for the Xfce panel

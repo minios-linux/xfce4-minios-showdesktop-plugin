@@ -3,8 +3,8 @@
 /debian/files
 /debian/debhelper-build-stamp
 /debian/*.substvars
-/debian/xfce4-minios-showdesktop-plugin/
-/debian/xfce4-minios-showdesktop-plugin-dbgsym/
+/debian/xfce4-showdesktop-minios-plugin/
+/debian/xfce4-showdesktop-minios-plugin-dbgsym/
 *.deb
 *.buildinfo
 *.changes

@@ -1,4 +1,4 @@
-project('xfce4-minios-showdesktop-plugin', 'c', version: '1.0.0', meson_version: '>= 0.61')
+project('xfce4-showdesktop-minios-plugin', 'c', version: '1.0.0', meson_version: '>= 0.61')
 
 gnome = import('gnome')
 i18n = import('i18n')

@@ -1,4 +1,4 @@
-# xfce4-minios-showdesktop-plugin
+# xfce4-showdesktop-minios-plugin
 
 MiniOS fork of Xfce Show Desktop for Xfce 4.20.
 
